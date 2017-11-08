@@ -1,2 +1,4 @@
-target/
-src/main/proto/
+target/*
+src/main/proto/*
+src/main/java/*
+src/main/resources/*
