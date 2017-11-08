@@ -1,0 +1,6 @@
+[submodule "tensorflow"]
+  path = src/main/proto/tensorflow
+  url = url = https://github.com/tensorflow/tensorflow.git
+[submodule "tensorflow_serving"]
+  path = src/main/proto/tensorflow_serving
+  url = url = https://github.com/tensorflow/serving.git
